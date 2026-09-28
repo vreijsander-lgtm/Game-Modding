@@ -1,0 +1,25 @@
+<players 
+        root="gfx/characters/costumes/" 
+        portraitroot="gfx/ui/stage/" 
+        nameimageroot="gfx/ui/boss/">
+    <player 
+        name="Sander" 
+        skin="character_001_isaac.png" 
+        nameimage="character_001_isaac.png" 
+        portrait="character_001_isaac.png"
+        birthright="This is just cosmetic." 
+        hp="2" 
+        armor="0" 
+        black="0" 
+        broken="0"
+        coins="10" 
+        keys="0" 
+        bombs="0" 
+        card="21" 
+        items="245" 
+        trinket="88"
+        pocketActive="723"
+        skinColor="-1"
+        canShoot="True"
+    />
+</players>

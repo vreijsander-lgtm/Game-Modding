@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>The Binding of Sander</name>
+    <directory>sander_mod</directory>
+    <id>3809569886</id>
+    <description>Mod that adds new items and 1 new character</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Player Characters"/>
+</metadata>

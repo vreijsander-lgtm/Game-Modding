@@ -1,0 +1,27 @@
+<challenges version="1">
+<challenge
+        name="We be farting"
+        playertype="0"
+        startingitems="Fart,Isaac's Heart"
+        endstage="6"
+        canshoot="false"
+        roomfilter="4"/>
+<challenge
+        name="Too OP?"
+        playertype="31"
+        startingitems="Mega Pill"
+        endstage="8"
+        roomfilter="2,4"/>
+<challenge
+        name="The Binding of Sander"
+        playertype="Sander"
+        startingitems="Rock Bottom"
+        endstage="8"
+        secretpath="true"/>
+<challenge
+        name="Red Room"
+        playertype="0"
+        startingitems="Red Key"
+        endstage="11"
+        />
+</challenges>

@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive name="Fart" description="Farting" gfx="frt.png" quality="4" cache="speed" tags="poop" />
+    <passive name="Mega Pill" description="All stats up" gfx="pill.png" quality="4" cache="damage firedelay shotspeed range speed luck" tags="food"/>
+    <active name="Greeds Bomb" description="A Bomb that kills all enemies in the room. Also drop 1-25 coins and add 1 Broken Heart" gfx="frt.png" quality="1" maxcharges="300" chargetype="timed" initcharge="0" tags="nogreed"/>
+</items>
