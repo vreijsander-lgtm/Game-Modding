@@ -2,6 +2,7 @@ local game = Game()
 local fartTimer = 0
 local poisonColor = Color(0.2, 0.8, 0.2, 1.0, 0, 0, 0)
 local fart = Isaac.GetItemIdByName("Fart")
+local greed = Isaac.GetItemIdByName("Greeds Bomb")
 
 function mod:OnPlayerUpdate(player)
     if not player:HasCollectible(fart) then
@@ -20,8 +21,8 @@ function mod:OnCache(player, cacheFlag)
         if cacheFlag == CacheFlag.CACHE_SPEED then
             player.MoveSpeed = player.MoveSpeed + 0.5
         end
-
     end
 end
+
 mod:AddCallback(ModCallbacks.MC_EVALUATE_CACHE, mod.OnCache)
 mod:AddCallback(ModCallbacks.MC_POST_PLAYER_UPDATE, mod.OnPlayerUpdate)

@@ -7,7 +7,7 @@
         canshoot="false"
         roomfilter="4"/>
 <challenge
-        name="Too OP?"
+        name="Pill"
         playertype="31"
         startingitems="Mega Pill"
         endstage="8"
@@ -17,11 +17,15 @@
         playertype="Sander"
         startingitems="Rock Bottom"
         endstage="8"
-        secretpath="true"/>
-<challenge
-        name="Red Room"
-        playertype="0"
-        startingitems="Red Key"
+        secretpath="true"
+        getcurse="34"
+        difficulty="2"/>
+<challange
+        name="you dont but do know"
+        playertype="The Lost"
+        startingitems="489, 76"
+        megasatan="true"
         endstage="11"
-        />
+        secretpath="True"
+        getcurse="38"/>
 </challenges>

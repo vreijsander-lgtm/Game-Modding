@@ -3,11 +3,13 @@
     <name>The Binding of Sander</name>
     <directory>sander_mod</directory>
     <id>3809569886</id>
-    <description>Mod that adds new items and 1 new character</description>
-    <version>1.1</version>
+    <description>Mod that adds new items and 1 new character and a new floor</description>
+    <version>1.2</version>
     <visibility>Public</visibility>
     <tag id="Lua"/>
     <tag id="Items"/>
     <tag id="Active Items"/>
     <tag id="Player Characters"/>
+    <tag id="Rooms"/>
+    <tag id="Floors"/>
 </metadata>

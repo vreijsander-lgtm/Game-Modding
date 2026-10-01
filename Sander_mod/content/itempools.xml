@@ -1,8 +1,13 @@
 <ItemPools>
 <Pool Name="treasure">
 <Item Name="Fart" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
+<Item Name="Greeds Bomb" Weight="5" DecreaseBy="0.01" RemoveOn="0.1"/>
 </Pool>
 <Pool Name="secret">
 <Item Name="Mega Pill" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
+<Item Name="Greeds Bomb" Weight="5" DecreaseBy="0.01" RemoveOn="0.1"/>
+</Pool>
+<Pool Name="shop">
+<Item Name="Greeds Bomb" Weight="5" DecreaseBy="0.01" RemoveOn="0.1" />
 </Pool>
 </ItemPools> 
